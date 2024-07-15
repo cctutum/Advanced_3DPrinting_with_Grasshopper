@@ -1,1 +1,3 @@
-# Advanced_3DPrinting_with_Grasshopper
+# Advanced 3DPrinting with Grasshopper
+
+Reading and re-implementing (thinkering) topics through the book **Advanced 3D Printing with Grasshopper** *Clay and FDM* by Diego Garcia Cuevas & Gianluca Pugliese.
